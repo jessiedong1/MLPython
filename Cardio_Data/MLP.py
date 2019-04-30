@@ -12,7 +12,7 @@ def main():
 
     #print(y)
     X,y = load_dataset()
-    draw_PCA(X,y)
+    #draw_PCA(X,y)
     #draw_LDA(X,y)
 
 def load_dataset():
